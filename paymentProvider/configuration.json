@@ -1,5 +1,5 @@
 {
-  "name": "TestSuitApprover",
+  "name": "LogicPaySafeProvider",
   "paymentMethods": [
     {
       "name": "Visa",
